@@ -4,6 +4,10 @@ public class HelloWorld {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         menu(scanner);
+        /*ssh-keygen
+        cat ~/.ssh/id_rsa.pub*/
+
+
     }
 
     public static void menu(Scanner scanner) {
