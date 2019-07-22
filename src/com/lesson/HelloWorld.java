@@ -5,5 +5,7 @@ public class HelloWorld {
 		System.out.println("new Line");
 		System.out.println("new Line");
 		System.out.println("new Line");
+        System.out.println("new Line3");
+        System.out.println("new Line3");
 	}
 }
